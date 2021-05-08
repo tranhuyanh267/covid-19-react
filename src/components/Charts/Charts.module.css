@@ -1,0 +1,5 @@
+.container {
+    dislay: flex;
+    justify-content: center;
+    width: 85%;
+}
